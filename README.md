@@ -50,7 +50,7 @@ Things you should know -
 - 🔭 <b>Currently working on:</b> Dart & Flutter
 - 🌱 <b>Getting better at:</b> Flutter, Agile, Software Development
 
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="https://hasanm08.github.io" target="_blank">hasanm08.github.io/</a>
+- 📫 <b>Reach me out:</b> <a href="https://hasanm08.github.io" target="_blank">hasanm08.github.io/</a>
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=hasanm08.visitor-badge">
