@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm [Amirhassan Amirmahani!](https://hasanm08.github.io/)   
 ![](hasanm08.png)
-<h4 align="center">Senior Mobile Developer</h4>
+<h4 align="center">Mobile Developer</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/hasanm08/" target="_blank">
   <img alt="hasanm08 on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40" >
