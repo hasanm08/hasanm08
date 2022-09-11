@@ -3,6 +3,10 @@
 ![](Untitled.png)
 
 <h4 align="center">Mobile Developer</h4>
+
+<p align="center">
+<a href="https://stackexchange.com/users/19216761"><img src="https://stackexchange.com/users/flair/19216761.png" width="208" height="58" alt="profile for hasanm08 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hasanm08 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/hasanm08/" target="_blank">
   <img alt="hasanm08 on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40" >
@@ -14,9 +18,6 @@
     <img alt="my Twitter" src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_blue_48.png" width="40" height="40" >
   </a>
   
-</p>
-<p align="center">
-<a href="https://stackexchange.com/users/19216761"><img src="https://stackexchange.com/users/flair/19216761.png" width="208" height="58" alt="profile for hasanm08 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hasanm08 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>
 
 ### Technical Skills
