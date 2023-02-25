@@ -60,10 +60,15 @@ Things you should know -
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=hasanm08.visitor-badge">
-<p/>
+<p/> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hasanm08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanm08&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="hasanm08's github stats" /></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanm08&layout=compact&theme=tokyonight&hide_border=true" /></a>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanm08&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="hasanm08's github stats" /></a>
+</div>
+  
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanm08&layout=compact&theme=tokyonight&hide_border=true" /></a>
+</div>
