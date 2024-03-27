@@ -8,28 +8,28 @@ I am deeply passionate about software development, with a special focus on mobil
 ```
 ## Notable Repositories
 ```
-    Wakelock Plus: A Dart package that provides a simple way to keep the device awake. This project demonstrates my ability to create practical solutions for common mobile app development challenges.
+Wakelock Plus: A Dart package that provides a simple way to keep the device awake. This project demonstrates my ability to create practical solutions for common mobile app development challenges.
 
-    Sentry Dart: A Dart client for Sentry, a popular error tracking and monitoring tool. This contribution showcases my expertise in integrating third-party services into Flutter applications.
+Sentry Dart: A Dart client for Sentry, a popular error tracking and monitoring tool. This contribution showcases my expertise in integrating third-party services into Flutter applications.
 
-    SPR-Research-Project: A comprehensive research project that showcases my ability to conduct in-depth research and apply my findings in practical applications. This project includes various branches and tags, indicating a structured approach to project management and version control.
+SPR-Research-Project: A comprehensive research project that showcases my ability to conduct in-depth research and apply my findings in practical applications. This project includes various branches and tags, indicating a structured approach to project management and version control.
 
-    Flutter UI Challenges: A collection of Flutter UI challenges that I've tackled, demonstrating my skills in creating visually appealing and user-friendly interfaces. This project highlights my attention to detail and my ability to implement complex UI designs.
+Flutter UI Challenges: A collection of Flutter UI challenges that I've tackled, demonstrating my skills in creating visually appealing and user-friendly interfaces. This project highlights my attention to detail and my ability to implement complex UI designs.
 
-    Deep Learning Projects: A series of projects related to deep learning, showcasing my interest and proficiency in this rapidly evolving field. These projects include various machine learning models and algorithms, demonstrating my commitment to staying at the forefront of technology.
+Deep Learning Projects: A series of projects related to deep learning, showcasing my interest and proficiency in this rapidly evolving field. These projects include various machine learning models and algorithms, demonstrating my commitment to staying at the forefront of technology.
 ```
 
 ## Contributions and Achievements
 ```
-    Active Contributor: I have been actively contributing to various projects, including bug fixes, feature additions, and documentation improvements. My contributions have been recognized by the GitHub community, with several of my pull requests being merged into main projects.
+Active Contributor: I have been actively contributing to various projects, including bug fixes, feature additions, and documentation improvements. My contributions have been recognized by the GitHub community, with several of my pull requests being merged into main projects.
 
-    Open Source Advocate: I am committed to the open-source community, believing in the power of collaboration and sharing knowledge. My contributions to open-source projects have not only enhanced my skills but also contributed to the development community.
+Open Source Advocate: I am committed to the open-source community, believing in the power of collaboration and sharing knowledge. My contributions to open-source projects have not only enhanced my skills but also contributed to the development community.
 ```
 
 ## Technical Skills
 ```
-    Languages: Proficient in Dart, and Flutter,C# , with a keen interest in deep learning and AI.
-    Tools: Currently working on Dart & Flutter, with a focus on improving my skills in Flutter, Agile methodologies, and software development practices.
+Languages: Proficient in Dart, and Flutter,C# , with a keen interest in deep learning and AI.
+Tools: Currently working on Dart & Flutter, with a focus on improving my skills in Flutter, Agile methodologies, and software development practices.
 ```
 ## Contact Information
 ```
@@ -65,10 +65,10 @@ Getting better at:Flutter, AI, Agile, Software Development
   <img alt="hasanm08 on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40" >
   </a>
   <a href="https://stackoverflow.com/users/14041364" target="_blank">
-    <img alt="hasanm08 on Stackoverflow" src="https://stackoverflow.design/assets/img/logos/talent/talent-logo-compact.svg" width="100" height="40" >
+<img alt="hasanm08 on Stackoverflow" src="https://stackoverflow.design/assets/img/logos/talent/talent-logo-compact.svg" width="100" height="40" >
   </a>
   <a href="https://twitter.com/hasanm08" target="_blank">
-    <img alt="my Twitter" src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_blue_48.png" width="40" height="40" >
+<img alt="my Twitter" src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_blue_48.png" width="40" height="40" >
   </a>
 
 
