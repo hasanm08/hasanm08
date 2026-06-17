@@ -1,73 +1,157 @@
+# Hi there 👋 I'm Amirhassan Amirmahani
 
-# Hi there 👋 I'm [Amirhassan Amirmahani!](https://hasanm08.github.io/)   
-![](Untitled.png) 
-## GitHub Portfolio
+### Senior Flutter Engineer | AI-Driven Mobile Solutions | Open Source Contributor
 
-```
-I am deeply passionate about software development, with a special focus on mobile app development using Dart and Flutter. My GitHub profile, hasanm08, showcases my journey in the tech world, highlighting my contributions to the open-source community and my personal projects.
-```
-## Notable Repositories
-```
-Wakelock Plus: A Dart package that provides a simple way to keep the device awake. This project demonstrates my ability to create practical solutions for common mobile app development challenges.
+Building scalable, high-performance cross-platform applications with Flutter, Clean Architecture, and AI-powered experiences.
 
-Sentry Dart: A Dart client for Sentry, a popular error tracking and monitoring tool. This contribution showcases my expertise in integrating third-party services into Flutter applications.
+---
 
-SPR-Research-Project: A comprehensive research project that showcases my ability to conduct in-depth research and apply my findings in practical applications. This project includes various branches and tags, indicating a structured approach to project management and version control.
+## 🚀 About Me
 
-Flutter UI Challenges: A collection of Flutter UI challenges that I've tackled, demonstrating my skills in creating visually appealing and user-friendly interfaces. This project highlights my attention to detail and my ability to implement complex UI designs.
+I'm a Senior Flutter Engineer with **7+ years of software development experience** and **6+ years focused on Flutter**, building production-grade applications across Android, iOS, Web, and Progressive Web Apps.
 
-Deep Learning Projects: A series of projects related to deep learning, showcasing my interest and proficiency in this rapidly evolving field. These projects include various machine learning models and algorithms, demonstrating my commitment to staying at the forefront of technology.
-```
+My expertise spans:
 
-## Contributions and Achievements
-```
-Active Contributor: I have been actively contributing to various projects, including bug fixes, feature additions, and documentation improvements. My contributions have been recognized by the GitHub community, with several of my pull requests being merged into main projects.
+* Flutter & Dart ecosystem
+* Clean Architecture & SOLID Principles
+* State Management (BLoC, Riverpod)
+* Performance Optimization
+* AI Agent Integration & LLM Applications
+* CI/CD & Mobile DevOps
+* Cross-platform Product Development
 
-Open Source Advocate: I am committed to the open-source community, believing in the power of collaboration and sharing knowledge. My contributions to open-source projects have not only enhanced my skills but also contributed to the development community.
-```
+I hold an **M.Sc. in Artificial Intelligence** from Shiraz University and actively explore the intersection of AI and mobile applications.
 
-## Technical Skills
-```
-Languages: Proficient in Dart, and Flutter,C# , with a keen interest in deep learning and AI.
-Tools: Currently working on Dart & Flutter, with a focus on improving my skills in Flutter, Agile methodologies, and software development practices.
-```
-## Contact Information
-```
-For more details about my projects, contributions, and to connect with me, please visit my GitHub profile at https://github.com/hasanm08 or reach out to me on LinkedIn at https://www.linkedin.com/in/hasanm08/ to find me at social medias https://hasanm08.github.io .
-```
- 
+---
 
-## Things you should know 
-```
-Currently working on:AI & Flutter 
+## 💼 Professional Highlights
 
-Getting better at:Flutter, AI, Agile, Software Development
-```
-## Github stats
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanm08&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="hasanm08's github stats" /></a>
- <b align="right" >
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanm08&layout=compact&theme=tokyonight&hide_border=true" /></a> </b>
-</div>
+### 📈 Performance Engineering
 
+* Increased application rendering performance from **60 FPS to 120 FPS**
+* Reduced memory consumption by **70%** in production applications
+* Improved Flutter Web SEO score by **15%**
+* Optimized rendering pipelines using HTML and WASM renderers
 
-## Github Profile Trophy
+### 🏗 Architecture & Scalability
 
+* Designed large-scale Flutter applications using Clean Architecture
+* Implemented maintainable BLoC and Riverpod state management solutions
+* Built reusable frameworks, templates, and engineering standards
+* Established testing infrastructures using Flutter Test and Mockito
 
+### 🤖 AI & Intelligent Systems
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanm08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+* Integrating AI Agents into mobile ecosystems
+* Developing LLM-powered applications and workflows
+* Building AI-assisted productivity tools
+* Combining machine learning concepts with real-world software products
 
-## How to reach Me
- <a href="https://hasanm08.github.io/" target="_blank">
-  <img alt="hasanm08 CV" src="https://github.com/hasanm08/hasanm08.github.io/blob/source-code/web/profile.png" width="40" height="40" >
-  </a>
-  <a href="https://www.linkedin.com/in/hasanm08/" target="_blank">
-  <img alt="hasanm08 on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40" >
-  </a>
-  <a href="https://stackoverflow.com/users/14041364" target="_blank">
-<img alt="hasanm08 on Stackoverflow" src="https://stackoverflow.design/assets/img/logos/talent/talent-logo-compact.svg" width="100" height="40" >
-  </a>
+---
 
+## 🌟 Open Source Contributions
 
+I strongly believe in open-source collaboration and continuously contribute to the Flutter ecosystem.
 
+### 🔋 Wakelock Plus
 
+Maintainer and contributor to one of the most widely used Flutter plugins for preventing device sleep.
+
+### 📊 Sentry Dart
+
+Contributed improvements to the official Dart SDK for Sentry, enhancing monitoring and reliability.
+
+### 🎨 Flutter UI Challenges
+
+A collection of advanced UI implementations demonstrating animation, responsiveness, and design precision.
+
+### 🧠 AI & Research Projects
+
+Experiments involving AI, machine learning, intelligent workflows, and developer productivity tooling.
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile Development
+
+* Flutter
+* Dart
+* Android
+* iOS
+* Flutter Web
+* PWA
+
+### Architecture
+
+* Clean Architecture
+* MVVM
+* BLoC
+* Riverpod
+* Modular Design
+* SOLID Principles
+
+### Backend & APIs
+
+* REST APIs
+* GraphQL
+* Firebase
+* WebSockets
+
+### Testing
+
+* Flutter Test
+* Mockito
+* Integration Testing
+
+### DevOps
+
+* Git
+* GitHub Actions
+* Bitrise
+* Fastlane
+* CI/CD Pipelines
+
+### Artificial Intelligence
+
+* LLM Integration
+* AI Agents
+* Prompt Engineering
+* Machine Learning Fundamentals
+
+---
+
+## 📚 Education
+
+**M.Sc. Artificial Intelligence**
+Shiraz University (2021 – 2024)
+
+**B.Sc. Computer Engineering**
+Shahid Bahonar University of Kerman (2017 – 2021)
+
+---
+
+## 🌍 Current Focus
+
+* AI-Powered Mobile Applications
+* Autonomous AI Agents
+* Flutter Architecture
+* Developer Productivity Systems
+* Human–Computer Interaction
+* Robotics & Intelligent Interfaces
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio: <https://hasanm08.github.io>
+
+💼 LinkedIn: <https://linkedin.com/in/hasanm08>
+
+💻 GitHub: <https://github.com/hasanm08>
+
+📧 Email: [hasanmahani08@gmail.com](mailto:hasanmahani08@gmail.com)
+
+---
+
+> "Great software is not only functional—it is scalable, maintainable, and built to empower people."
